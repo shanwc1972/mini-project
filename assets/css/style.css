@@ -13,7 +13,10 @@ body {
   color: #4F4846;
 }
 
-h1,
+h1 {
+  font-family: "Wonton", sans-serif;
+}
+
 h2 {
   margin: 20px;
 }
